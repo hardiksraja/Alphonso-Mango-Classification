@@ -16,3 +16,6 @@ This notebook follows a basic machine learning workflow:
 4. Train the model
 5. Test the model
 6. Further Improve the model via Data Augmentation, Dropout, Transfer Learning and repeat the previous workflow steps.
+
+# Model Comparison
+![ModelComparison](https://github.com/hardiksraja/Alphonso-Mango-Classification/blob/0ba7d6a30374e0443eb90e86b8c068e2ec6c54b4/Final.png)
